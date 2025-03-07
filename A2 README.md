@@ -53,4 +53,5 @@ low half-life genes overview.png: Presents an overview visualization of genes wi
 
 high half-life genes overview.png: Offers an overview visualization of genes with high half-lives (top 10%).
 
+Also performed analysis in GO Term Finder and the results where uploaded in separate folders for them
 
