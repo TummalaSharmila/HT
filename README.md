@@ -14,20 +14,10 @@ Python 3.11.11
 I am submitting a python script (you can also open it in google colab) that answers the question in the quiz
 
 ### Files needed:
-you need 
+you need HT_quiz.ipynb and both the rna_sequence files 
 
 ### Packages needed: 
-This python code needs numpy, pandas  and scipy
-
-### Output Files:
-DecayTimecourse.csv: The converted csv file from the input txt file.
-
-Half_Lives_Calculated.csv: Contains the computed half-lives for each yeast gene transcript.
-
-high_half_life_genes.txt: Lists the identifiers of genes with high half-lives (top 10%).
-
-low_half_life_genes.txt: Lists the identifiers of genes with low half-lives (bottom 10%).
-
+This python code needs collections module
 
 ### How to run my program
 I am submitting a google colab file in this zip file you can run it by clicking on the link in the .ipynb file
