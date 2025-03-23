@@ -35,6 +35,6 @@ if you are using VScode
 
 ### NOTE
 1. Python has various IDEs, running this python file completely depends on the IDE you are using.
-2. Keep python file and matrix files in the same folder.
+2. Keep python file and input files in the same folder.
 3. If you can't access the file please give full file path 
 
